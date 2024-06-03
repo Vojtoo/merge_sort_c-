@@ -1,0 +1,14 @@
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\bin\Debug\net8.0\MergerSort.exe
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\bin\Debug\net8.0\MergerSort.deps.json
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\bin\Debug\net8.0\MergerSort.runtimeconfig.json
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\bin\Debug\net8.0\MergerSort.dll
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\bin\Debug\net8.0\MergerSort.pdb
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.AssemblyInfoInputs.cache
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.AssemblyInfo.cs
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.csproj.CoreCompileInputs.cache
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.dll
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\refint\MergerSort.dll
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.pdb
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\MergerSort.genruntimeconfig.cache
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\ref\MergerSort.dll
