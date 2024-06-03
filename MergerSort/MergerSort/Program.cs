@@ -8,7 +8,7 @@ namespace Sorter
     {
         static void Main(string[] args)
         {
-            int[] unordered = { 5, 1, 3, 2, 7 };
+            int[] unordered = { 5, 1, 3, 2, 7, 8, 6, 4 };
 
             
             Sorter sorterino = new Sorter();

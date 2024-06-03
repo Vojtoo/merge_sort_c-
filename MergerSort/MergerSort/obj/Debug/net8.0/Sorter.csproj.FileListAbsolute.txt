@@ -12,3 +12,4 @@ D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\refint\Sorte
 D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\Sorter.pdb
 D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\Sorter.genruntimeconfig.cache
 D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\ref\Sorter.dll
+D:\REPOZITARE\merge_sort_csh\MergerSort\MergerSort\obj\Debug\net8.0\Sorter.sourcelink.json
