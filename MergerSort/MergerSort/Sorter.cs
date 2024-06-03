@@ -16,7 +16,7 @@ namespace Sorter
 
             for (int i = 0; i < sorted_array.Length-1; i++)
             {
-                for (int j = i; j < sorted_array.Length-1; j++)
+                for (int j = 0; j < sorted_array.Length-1; j++)
                 {
                     if (sorted_array[j] > sorted_array[j+1])
                     {
