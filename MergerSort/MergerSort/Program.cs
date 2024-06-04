@@ -8,12 +8,18 @@ namespace Sorter
     {
         static void Main(string[] args)
         {
-            int[] unordered = { 5, 3, 2, 7, 8, 6, 1, 4 };
+            int[] unordered = { 5,7,4, 3, 2, 1, 9, 8,6,10};
+            Random rand = new Random();
+            int[] unorderedIntegers = new int[100];
 
-            
+            for (int i = 0; i < 100; i++)
+            {
+                unorderedIntegers[i] = rand.Next(1, 1000);
+            }
+
             Sorter sorterino = new Sorter();
-            sorterino.BubbleSort(unordered);
-            PrintIntArray(unordered);
+            sorterino.MergeSort(unorderedIntegers);
+            PrintIntArray(unorderedIntegers);
            
         }
 
